@@ -1,0 +1,13 @@
+{
+  "name": "bluetooth-flic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example.js",
+  "scripts": {
+    "start": "node index.js",
+    "add-button": "node newscanwizard.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

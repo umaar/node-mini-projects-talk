@@ -1,0 +1,12 @@
+/* Slide-specific vertical centering override */
+.reveal .slides section[data-vertical-align-top]{
+	top: 0 !important;
+}
+
+.reveal .slide-background {
+	background: #333333;
+}
+
+.reveal p {
+	font-size: 1.2em;
+}
